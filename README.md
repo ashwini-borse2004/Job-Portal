@@ -17,5 +17,8 @@
 6. Filter by job title
    ![Image](https://github.com/user-attachments/assets/27b88b3c-c167-43ec-ab70-0b444a522b66)
    
-7. Job creation by recruiter
+7. Company Registration
+   ![Image](https://github.com/user-attachments/assets/03e34ff1-9901-4df2-a3c8-117fab1b2b82)
+   
+8. Job creation by recruiter
    ![Image](https://github.com/user-attachments/assets/56996bbe-7365-46c2-ab84-076a10ba54ed)
