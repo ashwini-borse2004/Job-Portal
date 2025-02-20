@@ -7,3 +7,6 @@
 
 3. Signup Page
    ![Image](https://github.com/user-attachments/assets/708a77a9-0b78-49d2-a0a3-39801ba3708a)
+
+4. Jobs
+   ![Image](https://github.com/user-attachments/assets/642734ee-3edc-490f-8135-9ea90cb2d3c2)
