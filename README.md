@@ -13,3 +13,6 @@
 
 5. Job filtering by city
    ![Image](https://github.com/user-attachments/assets/646176b3-bb19-4b8f-8f27-2f266fc1b1f3)
+
+6. Filter by job title
+   ![Image](https://github.com/user-attachments/assets/27b88b3c-c167-43ec-ab70-0b444a522b66)
