@@ -10,3 +10,6 @@
 
 4. Jobs
    ![Image](https://github.com/user-attachments/assets/642734ee-3edc-490f-8135-9ea90cb2d3c2)
+
+5. Job filtering by city
+   ![Image](https://github.com/user-attachments/assets/646176b3-bb19-4b8f-8f27-2f266fc1b1f3)
